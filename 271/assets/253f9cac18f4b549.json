@@ -1,0 +1,123 @@
+﻿{"frames": {
+
+"Bar_magnet.png copy":
+{
+	"frame": {"x":2,"y":2,"w":434,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":434,"h":78},
+	"sourceSize": {"w":434,"h":78}
+},
+"Bitmap 1":
+{
+	"frame": {"x":438,"y":2,"w":102,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":90},
+	"sourceSize": {"w":102,"h":90}
+},
+"Bitmap 2":
+{
+	"frame": {"x":542,"y":2,"w":73,"h":454},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":454},
+	"sourceSize": {"w":73,"h":454}
+},
+"Bitmap 8":
+{
+	"frame": {"x":617,"y":2,"w":87,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":80},
+	"sourceSize": {"w":87,"h":80}
+},
+"desk.png":
+{
+	"frame": {"x":2,"y":458,"w":749,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":749,"h":66},
+	"sourceSize": {"w":749,"h":66}
+},
+"desk.png copy":
+{
+	"frame": {"x":2,"y":458,"w":749,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":749,"h":66},
+	"sourceSize": {"w":749,"h":66}
+},
+"towels_qc.png":
+{
+	"frame": {"x":2,"y":526,"w":787,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":787,"h":103},
+	"sourceSize": {"w":787,"h":103}
+},
+"towels_qc.png copy":
+{
+	"frame": {"x":2,"y":526,"w":787,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":787,"h":103},
+	"sourceSize": {"w":787,"h":103}
+},
+"回形针.png":
+{
+	"frame": {"x":791,"y":526,"w":127,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":36},
+	"sourceSize": {"w":127,"h":36}
+},
+"回形针.png copy":
+{
+	"frame": {"x":791,"y":526,"w":127,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":36},
+	"sourceSize": {"w":127,"h":36}
+},
+"回形针_qc.png copy":
+{
+	"frame": {"x":2,"y":631,"w":116,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":44},
+	"sourceSize": {"w":116,"h":44}
+},
+"木板_qc.png copy":
+{
+	"frame": {"x":120,"y":631,"w":90,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":43},
+	"sourceSize": {"w":90,"h":43}
+},
+"条形磁铁_qc.png copy":
+{
+	"frame": {"x":212,"y":631,"w":152,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":43},
+	"sourceSize": {"w":152,"h":43}
+},
+"毛巾_qc.png copy":
+{
+	"frame": {"x":366,"y":631,"w":89,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":43},
+	"sourceSize": {"w":89,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"253f9cac18f4b549.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

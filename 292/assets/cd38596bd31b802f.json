@@ -1,0 +1,251 @@
+﻿{"frames": {
+
+"Bitmap 1-1.png":
+{
+	"frame": {"x":2,"y":2,"w":477,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":477,"h":179},
+	"sourceSize": {"w":477,"h":179}
+},
+"Bitmap 10.png":
+{
+	"frame": {"x":481,"y":2,"w":5,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":342},
+	"sourceSize": {"w":5,"h":342}
+},
+"Bitmap 11.png":
+{
+	"frame": {"x":488,"y":2,"w":5,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":12},
+	"sourceSize": {"w":5,"h":12}
+},
+"Bitmap 14":
+{
+	"frame": {"x":495,"y":2,"w":38,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":39},
+	"sourceSize": {"w":38,"h":39}
+},
+"Bitmap 15":
+{
+	"frame": {"x":535,"y":2,"w":38,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":39},
+	"sourceSize": {"w":38,"h":39}
+},
+"Bitmap 16":
+{
+	"frame": {"x":575,"y":2,"w":38,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":39},
+	"sourceSize": {"w":38,"h":39}
+},
+"Bitmap 17":
+{
+	"frame": {"x":615,"y":2,"w":262,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":25},
+	"sourceSize": {"w":262,"h":25}
+},
+"Bitmap 18":
+{
+	"frame": {"x":879,"y":2,"w":262,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":25},
+	"sourceSize": {"w":262,"h":25}
+},
+"Bitmap 2":
+{
+	"frame": {"x":1143,"y":2,"w":437,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":437,"h":212},
+	"sourceSize": {"w":437,"h":212}
+},
+"Bitmap 21":
+{
+	"frame": {"x":1582,"y":2,"w":228,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":254},
+	"sourceSize": {"w":228,"h":254}
+},
+"Bitmap 22":
+{
+	"frame": {"x":1582,"y":2,"w":228,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":254},
+	"sourceSize": {"w":228,"h":254}
+},
+"Bitmap 23":
+{
+	"frame": {"x":1812,"y":2,"w":84,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":63},
+	"sourceSize": {"w":84,"h":63}
+},
+"Bitmap 3":
+{
+	"frame": {"x":2,"y":346,"w":451,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":451,"h":109},
+	"sourceSize": {"w":451,"h":109}
+},
+"Bitmap 4":
+{
+	"frame": {"x":455,"y":346,"w":488,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":488,"h":144},
+	"sourceSize": {"w":488,"h":144}
+},
+"Bitmap 5":
+{
+	"frame": {"x":945,"y":346,"w":278,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":68},
+	"sourceSize": {"w":278,"h":68}
+},
+"Bitmap 6":
+{
+	"frame": {"x":1225,"y":346,"w":276,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":276,"h":68},
+	"sourceSize": {"w":276,"h":68}
+},
+"Bitmap 6222":
+{
+	"frame": {"x":1503,"y":346,"w":287,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":270},
+	"sourceSize": {"w":287,"h":270}
+},
+"Bitmap 7":
+{
+	"frame": {"x":2,"y":618,"w":276,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":276,"h":69},
+	"sourceSize": {"w":276,"h":69}
+},
+"Bitmap 8":
+{
+	"frame": {"x":280,"y":618,"w":276,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":276,"h":68},
+	"sourceSize": {"w":276,"h":68}
+},
+"Bitmap 9":
+{
+	"frame": {"x":558,"y":618,"w":70,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"beaker_logo_qc.png":
+{
+	"frame": {"x":630,"y":618,"w":185,"h":209},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":209},
+	"sourceSize": {"w":185,"h":209}
+},
+"magnifier glass.png":
+{
+	"frame": {"x":817,"y":618,"w":330,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":305},
+	"sourceSize": {"w":330,"h":305}
+},
+"miss.png":
+{
+	"frame": {"x":1149,"y":618,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"smile_.png":
+{
+	"frame": {"x":1225,"y":618,"w":73,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":72},
+	"sourceSize": {"w":73,"h":72}
+},
+"t_logo.png":
+{
+	"frame": {"x":1300,"y":618,"w":351,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":351,"h":100},
+	"sourceSize": {"w":351,"h":100}
+},
+"thermometer_big1.png copy":
+{
+	"frame": {"x":1653,"y":618,"w":90,"h":1306},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":1306},
+	"sourceSize": {"w":90,"h":1306}
+},
+"thermometer_up.png":
+{
+	"frame": {"x":1745,"y":618,"w":22,"h":436},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":436},
+	"sourceSize": {"w":22,"h":436}
+},
+"煤油温度计_qc.png":
+{
+	"frame": {"x":1769,"y":618,"w":188,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":43},
+	"sourceSize": {"w":188,"h":43}
+},
+"装有冷水的烧杯_qc.png":
+{
+	"frame": {"x":2,"y":1926,"w":262,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":43},
+	"sourceSize": {"w":262,"h":43}
+},
+"装有热水的烧杯_qc.png":
+{
+	"frame": {"x":266,"y":1926,"w":262,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":43},
+	"sourceSize": {"w":262,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"cd38596bd31b802f.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

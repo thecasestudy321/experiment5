@@ -1,0 +1,203 @@
+﻿{"frames": {
+
+" cball_qc.png":
+{
+	"frame": {"x":2,"y":2,"w":293,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":293,"h":348},
+	"sourceSize": {"w":293,"h":348}
+},
+"ball.png":
+{
+	"frame": {"x":297,"y":2,"w":138,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":140},
+	"sourceSize": {"w":138,"h":140}
+},
+"ball_red.png":
+{
+	"frame": {"x":437,"y":2,"w":138,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":140},
+	"sourceSize": {"w":138,"h":140}
+},
+"copper_bar.png":
+{
+	"frame": {"x":577,"y":2,"w":247,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":247,"h":30},
+	"sourceSize": {"w":247,"h":30}
+},
+"cup.png":
+{
+	"frame": {"x":826,"y":2,"w":140,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":126},
+	"sourceSize": {"w":140,"h":126}
+},
+"fire":
+{
+	"frame": {"x":968,"y":2,"w":193,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":156},
+	"sourceSize": {"w":193,"h":156}
+},
+"hat.png":
+{
+	"frame": {"x":1163,"y":2,"w":47,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":72},
+	"sourceSize": {"w":47,"h":72}
+},
+"hitArea.png":
+{
+	"frame": {"x":1212,"y":2,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"iron_table.png":
+{
+	"frame": {"x":1264,"y":2,"w":365,"h":709},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":365,"h":709},
+	"sourceSize": {"w":365,"h":709}
+},
+"match.png":
+{
+	"frame": {"x":1631,"y":2,"w":121,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":61},
+	"sourceSize": {"w":121,"h":61}
+},
+"match_box_qc.png":
+{
+	"frame": {"x":1754,"y":2,"w":125,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":100},
+	"sourceSize": {"w":125,"h":100}
+},
+"nb.png":
+{
+	"frame": {"x":1881,"y":2,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":18},
+	"sourceSize": {"w":18,"h":18}
+},
+"one_chain.png":
+{
+	"frame": {"x":1901,"y":2,"w":16,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":27},
+	"sourceSize": {"w":16,"h":27}
+},
+"sink.png":
+{
+	"frame": {"x":2,"y":713,"w":502,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":181},
+	"sourceSize": {"w":502,"h":181}
+},
+"spirit_lamp.png":
+{
+	"frame": {"x":506,"y":713,"w":140,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":147},
+	"sourceSize": {"w":140,"h":147}
+},
+"tips":
+{
+	"frame": {"x":648,"y":713,"w":653,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":653,"h":86},
+	"sourceSize": {"w":653,"h":86}
+},
+"top.png":
+{
+	"frame": {"x":1303,"y":713,"w":160,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":30},
+	"sourceSize": {"w":160,"h":30}
+},
+"water_sink_qc.png":
+{
+	"frame": {"x":1465,"y":713,"w":400,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":214},
+	"sourceSize": {"w":400,"h":214}
+},
+"水槽_qc.png":
+{
+	"frame": {"x":1867,"y":713,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+},
+"火柴盒_qc.png":
+{
+	"frame": {"x":2,"y":929,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"系好的铜球_qc.png":
+{
+	"frame": {"x":120,"y":929,"w":182,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":43},
+	"sourceSize": {"w":182,"h":43}
+},
+"酒精灯_qc.png":
+{
+	"frame": {"x":304,"y":929,"w":113,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":43},
+	"sourceSize": {"w":113,"h":43}
+},
+"铁架台_qc.png":
+{
+	"frame": {"x":419,"y":929,"w":365,"h":709},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":365,"h":709},
+	"sourceSize": {"w":365,"h":709}
+},
+"铁架台_txt_qc.png":
+{
+	"frame": {"x":786,"y":929,"w":113,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":43},
+	"sourceSize": {"w":113,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"13720191c408f45b.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

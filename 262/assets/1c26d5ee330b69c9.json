@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":29},
+	"sourceSize": {"w":29,"h":29}
+},
+"Bitmap 2":
+{
+	"frame": {"x":33,"y":2,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"Bitmap 3":
+{
+	"frame": {"x":55,"y":2,"w":48,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":35},
+	"sourceSize": {"w":48,"h":35}
+},
+"Bitmap 4":
+{
+	"frame": {"x":105,"y":2,"w":488,"h":399},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":488,"h":399},
+	"sourceSize": {"w":488,"h":399}
+},
+"云母1.png":
+{
+	"frame": {"x":595,"y":2,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"云母2.png":
+{
+	"frame": {"x":1109,"y":2,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"石英1.png":
+{
+	"frame": {"x":2,"y":516,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"长石1.png":
+{
+	"frame": {"x":516,"y":516,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"长石2.png":
+{
+	"frame": {"x":1030,"y":516,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"1c26d5ee330b69c9.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

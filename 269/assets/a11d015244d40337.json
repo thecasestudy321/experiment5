@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"Bitmap 17":
+{
+	"frame": {"x":2,"y":2,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"Bitmap 18":
+{
+	"frame": {"x":94,"y":2,"w":904,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":904,"h":170},
+	"sourceSize": {"w":904,"h":170}
+},
+"Bitmap 20":
+{
+	"frame": {"x":2,"y":174,"w":80,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":157},
+	"sourceSize": {"w":80,"h":157}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"a11d015244d40337.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

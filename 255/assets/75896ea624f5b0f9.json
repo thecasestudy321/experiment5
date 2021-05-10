@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"Bitmap 10":
+{
+	"frame": {"x":2,"y":2,"w":2,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":124},
+	"sourceSize": {"w":2,"h":124}
+},
+"Bitmap 11":
+{
+	"frame": {"x":6,"y":2,"w":667,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":667,"h":124},
+	"sourceSize": {"w":667,"h":124}
+},
+"Bitmap 2":
+{
+	"frame": {"x":675,"y":2,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":87},
+	"sourceSize": {"w":75,"h":87}
+},
+"Bitmap 3":
+{
+	"frame": {"x":752,"y":2,"w":112,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":67},
+	"sourceSize": {"w":112,"h":67}
+},
+"Bitmap 4":
+{
+	"frame": {"x":866,"y":2,"w":73,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":100},
+	"sourceSize": {"w":73,"h":100}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":128,"w":107,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":66},
+	"sourceSize": {"w":107,"h":66}
+},
+"Bitmap 6":
+{
+	"frame": {"x":111,"y":128,"w":84,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":76},
+	"sourceSize": {"w":84,"h":76}
+},
+"Bitmap 7":
+{
+	"frame": {"x":197,"y":128,"w":88,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":69},
+	"sourceSize": {"w":88,"h":69}
+},
+"Bitmap 8":
+{
+	"frame": {"x":287,"y":128,"w":114,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":72},
+	"sourceSize": {"w":114,"h":72}
+},
+"Bitmap 9":
+{
+	"frame": {"x":403,"y":128,"w":66,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":77},
+	"sourceSize": {"w":66,"h":77}
+},
+"石膏_qc.png":
+{
+	"frame": {"x":471,"y":128,"w":509,"h":292},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":509,"h":292},
+	"sourceSize": {"w":509,"h":292}
+},
+"金刚石_qc.png":
+{
+	"frame": {"x":2,"y":422,"w":247,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":247,"h":184},
+	"sourceSize": {"w":247,"h":184}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"75896ea624f5b0f9.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

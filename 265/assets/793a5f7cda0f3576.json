@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":2,"w":126,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":52},
+	"sourceSize": {"w":126,"h":52}
+},
+"Bitmap 3":
+{
+	"frame": {"x":130,"y":2,"w":750,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":375},
+	"sourceSize": {"w":750,"h":375}
+},
+"timeline_bcircle_11":
+{
+	"frame": {"x":882,"y":2,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bcircle_21":
+{
+	"frame": {"x":934,"y":2,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bhitArea1":
+{
+	"frame": {"x":986,"y":2,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"土星":
+{
+	"frame": {"x":1038,"y":2,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"地球":
+{
+	"frame": {"x":2,"y":514,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"天王星":
+{
+	"frame": {"x":514,"y":514,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"太阳":
+{
+	"frame": {"x":1026,"y":514,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"木星":
+{
+	"frame": {"x":2,"y":1026,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"水星":
+{
+	"frame": {"x":514,"y":1026,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"海王星":
+{
+	"frame": {"x":1026,"y":1026,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"火星":
+{
+	"frame": {"x":2,"y":1538,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"金星":
+{
+	"frame": {"x":514,"y":1538,"w":510,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":510},
+	"sourceSize": {"w":510,"h":510}
+},
+"银河系.png":
+{
+	"frame": {"x":1026,"y":1538,"w":436,"h":436},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":436,"h":436},
+	"sourceSize": {"w":436,"h":436}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"793a5f7cda0f3576.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

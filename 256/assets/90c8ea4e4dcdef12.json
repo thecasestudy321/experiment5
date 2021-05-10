@@ -1,0 +1,227 @@
+﻿{"frames": {
+
+"Bitmap 10":
+{
+	"frame": {"x":2,"y":2,"w":280,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":10},
+	"sourceSize": {"w":280,"h":10}
+},
+"Bitmap 12":
+{
+	"frame": {"x":284,"y":2,"w":303,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":17},
+	"sourceSize": {"w":303,"h":17}
+},
+"Bitmap 13":
+{
+	"frame": {"x":589,"y":2,"w":297,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":297,"h":59},
+	"sourceSize": {"w":297,"h":59}
+},
+"Bitmap 15":
+{
+	"frame": {"x":2,"y":63,"w":260,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":98},
+	"sourceSize": {"w":260,"h":98}
+},
+"Bitmap 2":
+{
+	"frame": {"x":264,"y":63,"w":258,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":255},
+	"sourceSize": {"w":258,"h":255}
+},
+"Bitmap 3":
+{
+	"frame": {"x":524,"y":63,"w":80,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":121},
+	"sourceSize": {"w":80,"h":121}
+},
+"Bitmap 4":
+{
+	"frame": {"x":606,"y":63,"w":58,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":121},
+	"sourceSize": {"w":58,"h":121}
+},
+"Bitmap 5":
+{
+	"frame": {"x":666,"y":63,"w":35,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":223},
+	"sourceSize": {"w":35,"h":223}
+},
+"Bitmap 6":
+{
+	"frame": {"x":703,"y":63,"w":224,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":13},
+	"sourceSize": {"w":224,"h":13}
+},
+"Clock_dial.png":
+{
+	"frame": {"x":2,"y":320,"w":161,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":161},
+	"sourceSize": {"w":161,"h":161}
+},
+"N.png":
+{
+	"frame": {"x":165,"y":320,"w":43,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":49},
+	"sourceSize": {"w":43,"h":49}
+},
+"Pointer.png":
+{
+	"frame": {"x":210,"y":320,"w":27,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":99},
+	"sourceSize": {"w":27,"h":99}
+},
+"S.png":
+{
+	"frame": {"x":239,"y":320,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":37,"h":51}
+},
+"fangguyu_paper.png":
+{
+	"frame": {"x":278,"y":320,"w":322,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":128},
+	"sourceSize": {"w":322,"h":128}
+},
+"hand_sewing_needle.png":
+{
+	"frame": {"x":602,"y":320,"w":275,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":275,"h":17},
+	"sourceSize": {"w":275,"h":17}
+},
+"little_sink_qc.png":
+{
+	"frame": {"x":2,"y":483,"w":325,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":133},
+	"sourceSize": {"w":325,"h":133}
+},
+"pin.png":
+{
+	"frame": {"x":329,"y":483,"w":89,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":26},
+	"sourceSize": {"w":89,"h":26}
+},
+"pins_qc.png":
+{
+	"frame": {"x":420,"y":483,"w":329,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":50},
+	"sourceSize": {"w":329,"h":50}
+},
+"pointer_qc.png":
+{
+	"frame": {"x":751,"y":483,"w":161,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":161},
+	"sourceSize": {"w":161,"h":161}
+},
+"一堆大头针_qc.png":
+{
+	"frame": {"x":2,"y":646,"w":190,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":44},
+	"sourceSize": {"w":190,"h":44}
+},
+"仿古鱼卡纸_txt.png":
+{
+	"frame": {"x":194,"y":646,"w":189,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":45},
+	"sourceSize": {"w":189,"h":45}
+},
+"回形针_qc.png":
+{
+	"frame": {"x":385,"y":646,"w":117,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":44},
+	"sourceSize": {"w":117,"h":44}
+},
+"小水槽_qc.png":
+{
+	"frame": {"x":504,"y":646,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"小水槽_qc.png 复制":
+{
+	"frame": {"x":2,"y":693,"w":673,"h":672},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":673,"h":672},
+	"sourceSize": {"w":673,"h":672}
+},
+"指南针_qc.png":
+{
+	"frame": {"x":677,"y":693,"w":117,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":44},
+	"sourceSize": {"w":117,"h":44}
+},
+"条形磁铁_txt.png":
+{
+	"frame": {"x":796,"y":693,"w":152,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":43},
+	"sourceSize": {"w":152,"h":43}
+},
+"绑好的小鱼_qc.png":
+{
+	"frame": {"x":2,"y":1367,"w":139,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":348},
+	"sourceSize": {"w":139,"h":348}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"90c8ea4e4dcdef12.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

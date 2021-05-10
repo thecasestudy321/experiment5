@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":2,"w":73,"h":454},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":454},
+	"sourceSize": {"w":73,"h":454}
+},
+"Bitmap 6":
+{
+	"frame": {"x":77,"y":2,"w":336,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":204},
+	"sourceSize": {"w":336,"h":204}
+},
+"Bitmap 7":
+{
+	"frame": {"x":415,"y":2,"w":12,"h":534},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":534},
+	"sourceSize": {"w":12,"h":534}
+},
+"Bitmap 8":
+{
+	"frame": {"x":429,"y":2,"w":87,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":80},
+	"sourceSize": {"w":87,"h":80}
+},
+"桌子.png":
+{
+	"frame": {"x":2,"y":538,"w":1563,"h":425},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1563,"h":425},
+	"sourceSize": {"w":1563,"h":425}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"98fedeefbd6d5729.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,179 @@
+﻿{"frames": {
+
+"Bitmap 1 复制":
+{
+	"frame": {"x":2,"y":2,"w":113,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":124},
+	"sourceSize": {"w":113,"h":124}
+},
+"Bitmap 1 复制 2":
+{
+	"frame": {"x":117,"y":2,"w":1203,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1203,"h":214},
+	"sourceSize": {"w":1203,"h":214}
+},
+"Bitmap 1 复制 3":
+{
+	"frame": {"x":1322,"y":2,"w":152,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":421},
+	"sourceSize": {"w":152,"h":421}
+},
+"Bitmap 15 复制":
+{
+	"frame": {"x":1476,"y":2,"w":168,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":52},
+	"sourceSize": {"w":168,"h":52}
+},
+"Bitmap 2 复制":
+{
+	"frame": {"x":1646,"y":2,"w":134,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":130},
+	"sourceSize": {"w":134,"h":130}
+},
+"Bitmap 2 复制 2":
+{
+	"frame": {"x":1782,"y":2,"w":150,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":421},
+	"sourceSize": {"w":150,"h":421}
+},
+"Bitmap 3 复制":
+{
+	"frame": {"x":1934,"y":2,"w":111,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":115},
+	"sourceSize": {"w":111,"h":115}
+},
+"Bitmap 3 复制 2":
+{
+	"frame": {"x":2,"y":425,"w":150,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":421},
+	"sourceSize": {"w":150,"h":421}
+},
+"Bitmap 4 复制":
+{
+	"frame": {"x":154,"y":425,"w":103,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":114},
+	"sourceSize": {"w":103,"h":114}
+},
+"Bitmap 4 复制 2":
+{
+	"frame": {"x":259,"y":425,"w":150,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":421},
+	"sourceSize": {"w":150,"h":421}
+},
+"Bitmap 5 复制":
+{
+	"frame": {"x":411,"y":425,"w":94,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":143},
+	"sourceSize": {"w":94,"h":143}
+},
+"Bitmap 5 复制 3":
+{
+	"frame": {"x":507,"y":425,"w":150,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":421},
+	"sourceSize": {"w":150,"h":421}
+},
+"Bitmap 6 复制":
+{
+	"frame": {"x":659,"y":425,"w":94,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":102},
+	"sourceSize": {"w":94,"h":102}
+},
+"Bitmap 6 复制 2":
+{
+	"frame": {"x":755,"y":425,"w":150,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":421},
+	"sourceSize": {"w":150,"h":421}
+},
+"Bitmap 7 复制":
+{
+	"frame": {"x":2,"y":848,"w":1205,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1205,"h":214},
+	"sourceSize": {"w":1205,"h":214}
+},
+"Bitmap 7 复制 2":
+{
+	"frame": {"x":1209,"y":848,"w":94,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":131},
+	"sourceSize": {"w":94,"h":131}
+},
+"Bitmap 8 复制":
+{
+	"frame": {"x":1305,"y":848,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+},
+"Bitmap 9 复制":
+{
+	"frame": {"x":1432,"y":848,"w":105,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":106},
+	"sourceSize": {"w":105,"h":106}
+},
+"timeline_bcircle_11":
+{
+	"frame": {"x":1539,"y":848,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bcircle_21":
+{
+	"frame": {"x":1591,"y":848,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bhitArea1":
+{
+	"frame": {"x":1643,"y":848,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"2db4ae8644aeaf6d.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":49,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":67},
+	"sourceSize": {"w":49,"h":67}
+},
+"Bitmap 3":
+{
+	"frame": {"x":53,"y":2,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":67},
+	"sourceSize": {"w":61,"h":67}
+},
+"Paper_clip.png":
+{
+	"frame": {"x":116,"y":2,"w":38,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":127},
+	"sourceSize": {"w":38,"h":127}
+},
+"Paper_one_chage.png":
+{
+	"frame": {"x":156,"y":2,"w":116,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":123},
+	"sourceSize": {"w":116,"h":123}
+},
+"clips_qc.png":
+{
+	"frame": {"x":274,"y":2,"w":336,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":87},
+	"sourceSize": {"w":336,"h":87}
+},
+"hitArea":
+{
+	"frame": {"x":612,"y":2,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"magnet_qc.png":
+{
+	"frame": {"x":2,"y":131,"w":634,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":634,"h":81},
+	"sourceSize": {"w":634,"h":81}
+},
+"回形针_qc.png":
+{
+	"frame": {"x":638,"y":131,"w":116,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":44},
+	"sourceSize": {"w":116,"h":44}
+},
+"有标记的条形磁铁_qc.png":
+{
+	"frame": {"x":2,"y":214,"w":298,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":43},
+	"sourceSize": {"w":298,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"106601819c5ff0b4.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

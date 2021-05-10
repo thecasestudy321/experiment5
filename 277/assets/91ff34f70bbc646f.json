@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Bitmap 10":
+{
+	"frame": {"x":2,"y":2,"w":570,"h":498},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":498},
+	"sourceSize": {"w":570,"h":498}
+},
+"Bitmap 11":
+{
+	"frame": {"x":574,"y":2,"w":120,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":352},
+	"sourceSize": {"w":120,"h":352}
+},
+"Bitmap 12":
+{
+	"frame": {"x":696,"y":2,"w":118,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":73},
+	"sourceSize": {"w":118,"h":73}
+},
+"Bitmap 14":
+{
+	"frame": {"x":816,"y":2,"w":118,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":72},
+	"sourceSize": {"w":118,"h":72}
+},
+"Bitmap 15":
+{
+	"frame": {"x":936,"y":2,"w":53,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":39},
+	"sourceSize": {"w":53,"h":39}
+},
+"Bitmap 3":
+{
+	"frame": {"x":991,"y":2,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":502,"w":51,"h":369},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":369},
+	"sourceSize": {"w":51,"h":369}
+},
+"Bitmap 6":
+{
+	"frame": {"x":55,"y":502,"w":502,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":286},
+	"sourceSize": {"w":502,"h":286}
+},
+"Bitmap 7":
+{
+	"frame": {"x":559,"y":502,"w":132,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":64},
+	"sourceSize": {"w":132,"h":64}
+},
+"Bitmap 9":
+{
+	"frame": {"x":693,"y":502,"w":178,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":67},
+	"sourceSize": {"w":178,"h":67}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"91ff34f70bbc646f.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
